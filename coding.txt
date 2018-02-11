@@ -1,0 +1,7 @@
+Binary Search
+
+Thinking steps:
+1. Search for results
+2. Except for dividing arrays, 
+   thinking about something related to 2^n(LC.540)
+
